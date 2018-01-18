@@ -1,0 +1,68 @@
+.header-content {
+  position: absolute;
+  bottom: 10%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  text-align: center;
+  font-size: 40px;
+  margin: 0 auto;
+  width: 100% !important;
+  padding:  10px 50px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+.carousel-inner {
+  height: 200px;
+}
+.imagen-noticia {
+  height: 200px;
+  width: 200px;
+}
+.noticia-titulo {
+  padding: 10px;
+  background-color: #99ff99;
+  border: 1px solid black;
+}
+.noticia {
+  padding: 10px;
+  background-color: #ccffcc;
+}
+.navbar {
+  background-color: teal;
+  color: white;
+  border: 2px solid black;
+}
+nav {
+  position: fixed;
+  top: 0;
+}
+.donacion {
+  background-color: #99ff99;
+  border: 1px solid black;
+  font-size: 15px;
+  padding: 10px;
+}
+footer {
+  background-color: teal;
+  color: black;
+  border: 2px solid black;
+  /*font-size: 10px;*/
+  height: 30px;
+}
+.redes-sociales {
+  padding: 10px;
+  text-align: center;
+}
+.copyright {
+  font-size: 15px;
+}
+.mision {
+  padding: 50px;
+}
+.vision {
+  padding: 50px;
+}
+.historia {
+  padding: 50px;
+}
