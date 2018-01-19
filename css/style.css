@@ -15,16 +15,16 @@
 .carousel-inner {
   height: 200px;
 }
-.imagen-noticia {
+.imagen-blog {
   height: 200px;
   width: 200px;
 }
-.noticia-titulo {
+.blog-titulo {
   padding: 10px;
   background-color: #99ff99;
   border: 1px solid black;
 }
-.noticia {
+.blog {
   padding: 10px;
   background-color: #ccffcc;
 }
@@ -48,10 +48,10 @@ footer {
   color: black;
   border: 2px solid black;
   /*font-size: 10px;*/
-  height: 30px;
+  /*height: 30px;*/
 }
 .redes-sociales {
-  padding: 10px;
+  /*padding: 10px;*/
   text-align: center;
 }
 .copyright {
@@ -65,4 +65,36 @@ footer {
 }
 .historia {
   padding: 50px;
+}
+.img-thumb {
+  height: 200px;
+  width: 100% !important;
+}
+.thumbnail {
+  text-align: center;
+  background-color: #99ff99;
+  border: 1px solid black;
+}
+.row-noticia {
+  margin: 50px 100px;
+  background-color: #ccffcc;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: red;
+  color: white;
 }
